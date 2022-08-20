@@ -6,7 +6,7 @@ Inspired by [Bot du cul](https://github.com/WhiteFangs/BotDuCul), this is a bot 
 
 Link to the twitter account [PerioDico](https://twitter.com/PerioDicoBot) (Perio for Periodic, Dico for Dictionary)
 
-### CHeErS !
+CHeErS !
 
 ## French
 
@@ -16,4 +16,4 @@ Insipré par le [Bot du cul](https://github.com/WhiteFangs/BotDuCul), ceci est u
 
 Lien vers le compte twitter [PerioDico](https://twitter.com/PerioDicoBot) (Perio pour Périodique, Dico for Dictionnaire)
 
-### SAlUTaTiONS !
+SAlUTaTiONS !
