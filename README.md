@@ -12,7 +12,7 @@ CHeErS !
 
 L'idée de base est que certain mots peuvent être écrits en utilisant uniquement des éléments chimiques : CHoCoLaTs, FEu, BaNaNe, ...
 
-Insipré par le [Bot du cul](https://github.com/WhiteFangs/BotDuCul), ceci est un bot qui tweet un mot écrit avec des éléments chimiques toutcomes les 30 minutes.
+Insipré par le [Bot du cul](https://github.com/WhiteFangs/BotDuCul), ceci est un bot qui tweet un mot écrit avec des éléments chimiques toutes les 30 minutes.
 
 Lien vers le compte twitter [PerioDico](https://twitter.com/PerioDicoBot) (Perio pour Périodique, Dico for Dictionnaire)
 
